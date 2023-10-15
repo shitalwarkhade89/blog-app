@@ -1,0 +1,46 @@
+.main-container{
+    display: flex;
+    justify-content: space-between;
+    margin: 15px;
+    box-shadow: 2px 0px 5px  2px  #ccc;
+}
+.img-cont{
+    margin: 5px;
+
+}
+.info-cont{
+    margin-left: 20px;
+}
+.img-1{
+   height:430px;
+   border-radius: 10px;
+   margin: 5px;
+}
+.img-1:hover{
+    height: 400px;
+    cursor: pointer;
+}
+.title{
+    font-size: 38px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.desccription{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    text-align: center;
+    color: blue;
+}
+.content{
+    text-align: justify;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+.about-heading{
+    text-align: center;
+    font-size: 45px;
+    color: rgb(6, 180, 248);
+    font-family: 'Times New Roman', Times, serif; text-decoration: underline;
+}
